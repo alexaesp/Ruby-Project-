@@ -1,0 +1,3 @@
+log = File.open('/Users/alexandraespinosa/Downloads/ApacheLogs.txt')
+
+puts "The total requests that where made is #{log.readlines.size}"
