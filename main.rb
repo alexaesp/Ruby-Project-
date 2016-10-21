@@ -1,3 +1,6 @@
+#worked with shelby, caleb, matt, Kathleen 
+
+
 puts "To begin press enter"
 answer = gets
 
